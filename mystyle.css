@@ -19,132 +19,157 @@ body{
 }
 
 .fire{
-    background-color: gray;
+    background-color: rgb(173, 173, 173);
     height: 215px;
     position: relative;
     padding: 3px;
     margin: 27px 15px 30px 45px; 
     z-index: 1;
     width: 150px;
+    box-shadow: 0px 2px 5px 1px #5c5c5c, 0px -2px 5px 1px #5c5c5c;
+    border-radius: 7%;
 }
 
 .water{
-    background-color: gray;
+    background-color: rgb(173, 173, 173);
     height: 215px;
     position: relative;
     padding: 5px;
     margin: 27px 0px 30px 85px;
     z-index: 1;
+    box-shadow: 0px 2px 5px 1px #5c5c5c, 0px -2px 5px 1px #5c5c5c;
+    border-radius: 7%;
 }
 
 .grass{
-    background-color: gray;
+    background-color: rgb(173, 173, 173);
     height: 215px;
     position: relative;
     padding: 3px;
     margin: 27px 0px 30px 90px; 
     z-index: 1;
+    box-shadow: 0px 2px 5px 1px #5c5c5c, 0px -2px 5px 1px #5c5c5c;
+    border-radius: 7%;
 }
 
 .poison{
-    background-color: gray;
+    background-color: rgb(173, 173, 173);
     height: 215px;
     position: relative;
     padding: 3px;
     margin: 27px 15px 30px 45px; 
     z-index: 1;
-    width: 150px;
+    box-shadow: 0px 2px 5px 1px #5c5c5c, 0px -2px 5px 1px #5c5c5c;
+    border-radius: 7%;
 }
 
 .electra{
-    background-color: gray;
+    background-color: rgb(173, 173, 173);
     height: 215px;
     position: relative;
     padding: 5px;
     margin: 27px 5px 30px 85px;
     z-index: 1;
+    box-shadow: 0px 2px 5px 1px #5c5c5c, 0px -2px 5px 1px #5c5c5c;
+    border-radius: 7%;
 }
 
 .rock{
-    background-color: gray;
+    background-color: rgb(173, 173, 173);
     height: 215px;
     position: relative;
     padding: 3px;
     margin: 27px -5px 30px 85px; 
     z-index: 1;
+    box-shadow: 0px 2px 5px 1px #5c5c5c, 0px -2px 5px 1px #5c5c5c;
+    border-radius: 7%;
 }
 
 .fight{
-    background-color: gray;
+    background-color: rgb(173, 173, 173);
     height: 215px;
     position: relative;
     padding: 3px;
     margin: 27px 15px 30px 45px; 
     z-index: 1;
-    width: 150px;
+    box-shadow: 0px 2px 5px 1px #5c5c5c, 0px -2px 5px 1px #5c5c5c;
+    border-radius: 7%;
 }
 
 .normal{
-    background-color: gray;
+    background-color: rgb(173, 173, 173);
     height: 215px;
     position: relative;
     padding: 5px;
     margin: 27px 0px 30px 85px;
     z-index: 1;
+    box-shadow: 0px 2px 5px 1px #5c5c5c, 0px -2px 5px 1px #5c5c5c;
+    border-radius: 7%;
 }
 
 .ground{
-    background-color: gray;
+    background-color: rgb(173, 173, 173);
     height: 215px;
     position: relative;
     padding: 3px;
     margin: 27px -5px 30px 90px; 
     z-index: 1;
+    box-shadow: 0px 2px 5px 1px #5c5c5c, 0px -2px 5px 1px #5c5c5c;
+    border-radius: 7%;
 }
 
 .bug{
-    background-color: gray;
+    background-color: rgb(173, 173, 173);
     height: 215px;
     position: relative;
     padding: 3px;
     margin: 27px 15px 30px 45px; 
     z-index: 1;
-    width: 150px;
+    box-shadow: 0px 2px 5px 1px #5c5c5c, 0px -2px 5px 1px #5c5c5c;
+    border-radius: 7%;
 }
 
 .flying{
-    background-color: gray;
+    background-color: rgb(173, 173, 173);
     height: 215px;
     position: relative;
     padding: 5px;
     margin: 27px 0px 30px 85px;
     z-index: 1;
+    box-shadow: 0px 2px 5px 1px #5c5c5c, 0px -2px 5px 1px #5c5c5c;
+    border-radius: 7%;
 }
 
 .dragon{
-    background-color: gray;
+    background-color: rgb(173, 173, 173);
     height: 215px;
     position: relative;
     padding: 3px;
     margin: 27px -5px 30px 90px; 
     z-index: 1;
+    box-shadow: 0px 2px 5px 1px;
+    box-shadow: 0px 2px 5px 1px #5c5c5c, 0px -2px 5px 1px #5c5c5c;
+    border-radius: 7%;
 }
 
 .psycho{
-    background-color: gray;
+    background-color: rgb(173, 173, 173);
     height: 215px;
     position: relative;
     padding: 3px;
     margin: 27px 60px 30px 218px; 
     z-index: 1;
-    width: 150px;
+    box-shadow: 0px 2px 5px 1px #5c5c5c, 0px -2px 5px 1px #5c5c5c;
+    border-radius: 7%;
 }
 
 .fairy{
-    background-color: gray;
+    background-color: rgb(173, 173, 173);
     height: 215px;
     position: relative;
     padding: 5px;
     margin: 27px 0px 30px 80px;
     z-index: 1;
+    box-shadow: 0px 2px 5px 1px #5c5c5c, 0px -2px 5px 1px #5c5c5c;
+    border-radius: 7%;
 }
