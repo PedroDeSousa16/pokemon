@@ -1,0 +1,150 @@
+body{
+    background-image: url(img/Wallpapers\ Computer\ Pokemon.jpg);
+    width: auto;
+}
+
+.logo{
+    background-image: url(img/Old\ Red\ Wood\ Background.jpg);
+    height: 150px;
+    box-shadow: 0px 2px 15px 2px #2c2c2c;
+    width: auto;
+    z-index: 2;
+}
+
+.background{
+    background-color: rgb(230, 230, 230);
+    height: auto;
+    box-shadow: 0px 10px 10px 5px #2c2c2c;
+    z-index: 0;
+}
+
+.fire{
+    background-color: gray;
+    height: 215px;
+    position: relative;
+    padding: 3px;
+    margin: 27px 15px 30px 45px; 
+    z-index: 1;
+    width: 150px;
+}
+
+.water{
+    background-color: gray;
+    height: 215px;
+    position: relative;
+    padding: 5px;
+    margin: 27px 0px 30px 85px;
+    z-index: 1;
+}
+
+.grass{
+    background-color: gray;
+    height: 215px;
+    position: relative;
+    padding: 3px;
+    margin: 27px 0px 30px 90px; 
+    z-index: 1;
+}
+
+.poison{
+    background-color: gray;
+    height: 215px;
+    position: relative;
+    padding: 3px;
+    margin: 27px 15px 30px 45px; 
+    z-index: 1;
+    width: 150px;
+}
+
+.electra{
+    background-color: gray;
+    height: 215px;
+    position: relative;
+    padding: 5px;
+    margin: 27px 5px 30px 85px;
+    z-index: 1;
+}
+
+.rock{
+    background-color: gray;
+    height: 215px;
+    position: relative;
+    padding: 3px;
+    margin: 27px -5px 30px 85px; 
+    z-index: 1;
+}
+
+.fight{
+    background-color: gray;
+    height: 215px;
+    position: relative;
+    padding: 3px;
+    margin: 27px 15px 30px 45px; 
+    z-index: 1;
+    width: 150px;
+}
+
+.normal{
+    background-color: gray;
+    height: 215px;
+    position: relative;
+    padding: 5px;
+    margin: 27px 0px 30px 85px;
+    z-index: 1;
+}
+
+.ground{
+    background-color: gray;
+    height: 215px;
+    position: relative;
+    padding: 3px;
+    margin: 27px -5px 30px 90px; 
+    z-index: 1;
+}
+
+.bug{
+    background-color: gray;
+    height: 215px;
+    position: relative;
+    padding: 3px;
+    margin: 27px 15px 30px 45px; 
+    z-index: 1;
+    width: 150px;
+}
+
+.flying{
+    background-color: gray;
+    height: 215px;
+    position: relative;
+    padding: 5px;
+    margin: 27px 0px 30px 85px;
+    z-index: 1;
+}
+
+.dragon{
+    background-color: gray;
+    height: 215px;
+    position: relative;
+    padding: 3px;
+    margin: 27px -5px 30px 90px; 
+    z-index: 1;
+}
+
+.psycho{
+    background-color: gray;
+    height: 215px;
+    position: relative;
+    padding: 3px;
+    margin: 27px 60px 30px 218px; 
+    z-index: 1;
+    width: 150px;
+}
+
+.fairy{
+    background-color: gray;
+    height: 215px;
+    position: relative;
+    padding: 5px;
+    margin: 27px 0px 30px 80px;
+    z-index: 1;
+}
