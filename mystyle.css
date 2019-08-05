@@ -3,6 +3,11 @@ body{
     width: auto;
 }
 
+.menu{
+    position: fixed;
+    z-index: 3;
+}
+
 .logo{
     background-image: url(img/Old\ Red\ Wood\ Background.jpg);
     height: 150px;
@@ -16,13 +21,19 @@ body{
     height: auto;
     box-shadow: 0px 10px 10px 5px #2c2c2c;
     z-index: 0;
+    position: relative;
+    margin-top: 150px;
+    margin-bottom: -185px
 }
 
 h3{
     text-align: center;
     text-transform: capitalize;
     position: relative;
-    margin: 18px;
+    margin: 27px;
+    font-family: 'Luckiest Guy', cursive;
+    text-shadow: #000000 2px 2px, -2px -2px black;
+    font-size: 50px;
 }
 
 
@@ -175,3 +186,58 @@ h3{
     margin: 30px 80px;
 }
 
+.fire{
+    color: rgb(255, 86, 8);
+}
+
+.water{
+    color: #0b94f0;
+}
+
+.grass{
+    color: #16e038;
+}
+
+.poison{
+    color: #940bf0;
+}
+
+.electra{
+    color: #e2c30f;
+}
+
+.rock{
+    color: #57514a;
+}
+
+.fight{
+    color: #7c0e0e;
+}
+
+.normal{
+    color: #a3a3a3;
+}
+
+.ground{
+    color: #977650;
+}
+
+.bug{
+    color: #42b937;
+}
+
+.flying{
+    color: #9ce3f8;
+}
+
+.dragon{
+    color: #229bc0;
+}
+
+.psycho{
+    color: #472979;
+}
+
+.fairy{
+    color: #b81180;
+}
